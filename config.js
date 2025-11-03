@@ -2,13 +2,13 @@
 
 module.exports = {
   salesforce: {
-    clientId: 'VOTRE_CLIENT_ID',
-    clientSecret: 'VOTRE_CLIENT_SECRET',
-    redirectUri: 'VOTRE_URL_DE_REDIRECTION'
+    clientId: 'YOUR_CLIENT_ID',
+    clientSecret: 'YOUR_CLIENT_SECRET',
+    redirectUri: 'YOUR_REDIRECT_URL'
   },
   googleDrive: {
-    clientId: 'VOTRE_CLIENT_ID',
-    clientSecret: 'VOTRE_CLIENT_SECRET'
+    clientId: 'YOUR_CLIENT_ID',
+    clientSecret: 'YOUR_CLIENT_SECRET'
   },
   // Autres configurations d'intégration ici
 };
