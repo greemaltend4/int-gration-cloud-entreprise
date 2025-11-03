@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-  res.send('Bienvenue dans l\'application d\'Intégration Cloud Entreprise');
+  res.send('Bienvenue dans l\'application d\'intégration Cloud Entreprise');
 });
 
 app.listen(PORT, () => {
