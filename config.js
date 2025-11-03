@@ -4,7 +4,7 @@ module.exports = {
   salesforce: {
     clientId: 'YOUR_SALESFORCE_CLIENT_ID',
     clientSecret: 'YOUR_SALESFORCE_CLIENT_SECRET',
-    redirectUri: 'https://your-production-url.com/auth/callback' // TODO: Update for production
+    redirectUri: 'https://new-production-url.com/auth/callback' // Updated for production
   },
   googleDrive: {
     clientId: 'YOUR_GOOGLE_DRIVE_CLIENT_ID',
